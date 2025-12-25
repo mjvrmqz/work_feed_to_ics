@@ -1,11 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:Work on the Project Start-Up shortcut in Apple Shortcuts alongside Project Phases\, focusing on Phase One with bug and UI fixes for about two hours in a relaxed session.                         #ActionableSteps #NotionCalendar
-DTEND:20251224T144900Z
-DTSTART:20251224T134500Z
-SUMMARY:Group 3
-UID:a149b030-22cd-4895-a34f-5441e6cacea6@a149.org
-END:VEVENT
 END:VCALENDAR
