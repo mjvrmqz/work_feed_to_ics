@@ -1,4 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Work on all work-related shortcuts\, giving priority to the Finder Organization shortcut\, and aim to complete 2–3 shortcuts within about 3 hours. Brainstorm if needed. #ActionableSteps #NotionCalendar #EndOfDay
+DTEND:20251230T122600Z
+DTSTART:20251230T102600Z
+SUMMARY:Group 1
+UID:51d8c6b5-f731-40ab-ae81-bcf5ec43e914@51d8.org
+END:VEVENT
 END:VCALENDAR
