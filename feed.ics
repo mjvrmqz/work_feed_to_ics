@@ -2,10 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Work on all work-related shortcuts\, giving priority to the Finder Organization shortcut\, and aim to complete 2–3 shortcuts within about 3 hours. Brainstorm if needed. #ActionableSteps #NotionCalendar #EndOfDay
-DTEND:20251230T122600Z
-DTSTART:20251230T102600Z
+DESCRIPTION:Experiment with different methods to overcome challenges in Photoshop parallax layer techniques and focus on making it work through trial and error. Estimated time to complete is about 2 hours. #ActionableSteps #NotionCalendar
+DTEND:20251231T201900Z
+DTSTART:20251231T181900Z
+SUMMARY:Group 2
+UID:59ef66e6-03d7-4099-9f33-b2280226883d@59ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Work on Apple Shortcuts and update every shortcut possible\, which should take about 2 hours. #ActionableSteps #NotionCalendar
+DTEND:20251231T163100Z
+DTSTART:20251231T143100Z
 SUMMARY:Group 1
-UID:51d8c6b5-f731-40ab-ae81-bcf5ec43e914@51d8.org
+UID:65c199e3-9163-4ab4-843d-63e6d220f79d@65c1.org
 END:VEVENT
 END:VCALENDAR
