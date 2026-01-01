@@ -2,17 +2,15 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Experiment with different methods to overcome challenges in Photoshop parallax layer techniques and focus on making it work through trial and error. Estimated time to complete is about 2 hours. #ActionableSteps #NotionCalendar
-DTEND:20251231T201900Z
-DTSTART:20251231T181900Z
-SUMMARY:Group 2
-UID:eedc3b55-9fdc-4574-82bd-5fb814d02453@eedc.org
+DTEND:20260101T123200Z
+DTSTART:20260101T103200Z
+SUMMARY:Group 1
+UID:2f1d89fa-8c37-452d-8905-5977d7e7f707@2f1d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Work on Apple Shortcuts and update every shortcut possible\, which should take about 2 hours. #ActionableSteps #NotionCalendar
-DTEND:20251231T164300Z
-DTSTART:20251231T144300Z
-SUMMARY:Group 1
-UID:d5d3a73b-1e57-49a3-884f-f2b04b0ac67e@d5d3.org
+DTEND:20260101T153200Z
+DTSTART:20260101T123200Z
+SUMMARY:Group 2
+UID:02c18c01-1c3e-40ae-bbd2-bbaf7c707ef1@02c1.org
 END:VEVENT
 END:VCALENDAR
