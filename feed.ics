@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20260102T140500Z
-DTSTART:20260102T120500Z
-SUMMARY:Group 1
-UID:09e0c8d8-2eae-4908-b026-5accca2525b0@09e0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Create a shortcut extension for Client DMs or client outreach that incorporates six pitch techniques from *To Sell Is Human* using a GPT prompt. Include a pitch notebook to log and review pitches for improvement over time. #ActionableSteps #NotionCalendar #macOS
 DTEND:20260103T004400Z
 DTSTART:20260102T224400Z
 SUMMARY:Group 3
-UID:cd29b7e6-5b6c-43b7-80ca-30bcbb87e4a5@cd29.org
+UID:484c2112-d7fc-4112-8e94-e7d60a816e79@484c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260102T140500Z
+DTSTART:20260102T120500Z
+SUMMARY:Group 1
+UID:685be50a-2da2-4e89-bb3d-ed6795ca6a81@685b.org
 END:VEVENT
 END:VCALENDAR
